@@ -1,0 +1,18 @@
+
+#Blog
+
+##C
+
+###Lex与Yacc
+
+Lex 是词分析器 Yacc 是语法分析器
+
+1. 系统传递字符串给Lex,Lex通过定义的规则，把一大段字符串解析成为一个个Token，然后返回给Yacc。
+2. Yacc定义语法之间的规则，规则一般可以理解为 "某Token 某Token 某Token"为一个语法，规则的后面会定义对应的动作，表示某语法下C语言的运行规则。
+3. php解析器使用的是re2c和Yacc做解析工具，通过浏览PHP7  Zend/zend_language_parser.y 文件能够更加清晰的了解到php的语法，包括return type的指定.??的使用等等。
+
+[Lex与Yacc书籍与练习用的源代码](http://git.oschina.net/wan3574489/Lex-and-Yacc)
+
+***
+[Markdown使用手册](http://wowubuntu.com/markdown/)
+[Markdown在线手册](http://mahua.jser.me/)
