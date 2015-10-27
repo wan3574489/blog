@@ -13,7 +13,11 @@ Lex 是词分析器 Yacc 是语法分析器
 
 [Lex与Yacc书籍与练习用的源代码](http://git.oschina.net/wan3574489/Lex-and-Yacc)
 
+##Git
 
+###常用命令
+1. git clone https:user:password@git_Url_Address.com 通过Http地址克隆git库
+2. git checkout -t origin/branch  在本地新建一个跟远端branch一样的分支，并且自动进行关联
 
 ##YII2
 
@@ -27,4 +31,5 @@ Lex 是词分析器 Yacc 是语法分析器
 ***
 [Markdown使用手册](http://wowubuntu.com/markdown/)
 [Markdown在线手册](http://mahua.jser.me/)
+Edit By [MaHua](http://mahua.jser.me)
 Edit By [MaHua](http://mahua.jser.me)
