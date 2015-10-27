@@ -13,6 +13,18 @@ Lex 是词分析器 Yacc 是语法分析器
 
 [Lex与Yacc书籍与练习用的源代码](http://git.oschina.net/wan3574489/Lex-and-Yacc)
 
+
+
+##YII2
+
+###常用命令
+    数据迁移与更新:
+       新建迁移命令  yii migrate/create <name>
+       运行迁移      yii migrate
+       参考网站      http://www.yiichina.com/doc/guide/2.0/db-migrations
+
+
 ***
 [Markdown使用手册](http://wowubuntu.com/markdown/)
 [Markdown在线手册](http://mahua.jser.me/)
+Edit By [MaHua](http://mahua.jser.me)
