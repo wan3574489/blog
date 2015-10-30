@@ -27,9 +27,17 @@ Lex 是词分析器 Yacc 是语法分析器
        运行迁移      yii migrate
        参考网站      http://www.yiichina.com/doc/guide/2.0/db-migrations
 
-
+###PHPStorm
+    1.代码注释能够让编辑器识别不容易识别的变量，提供较好的代码变量提示。
+       /**
+         * @var  $WxPay \common\components\NotificationService
+         */
+         @var 标签
+         @WxPay 对应的变量名称
+         @\common\components\NotificationService 变量对应的类
 ***
 [Markdown使用手册](http://wowubuntu.com/markdown/)
 [Markdown在线手册](http://mahua.jser.me/)
+Edit By [MaHua](http://mahua.jser.me)
 Edit By [MaHua](http://mahua.jser.me)
 Edit By [MaHua](http://mahua.jser.me)
