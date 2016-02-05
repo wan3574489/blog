@@ -1,10 +1,3 @@
----
-title: 1.8.0更新说明
-tags: 小书匠,更新
-grammar_footnote: true
-grammar_cjkEmphasis: true
-grammar_cjkRuby: true
----
 
 # Blog
 
